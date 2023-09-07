@@ -1,3 +1,9 @@
+
+<p><center>This is the how the website look when we open it.</center> </p>
+
+##
+![Web capture_7-9-2023_213047_localhost](https://github.com/SparshDusad/Personal-Portfolio/assets/121246173/abab2fbd-185f-4a33-a359-155bff5bf54a)
+
 ## About 
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
 <p>These technologies are used to build this website:</p>
